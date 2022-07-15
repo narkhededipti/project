@@ -1,0 +1,8 @@
+COLOR,TOUGHNESS,FUNGUS,APPEARANCE,POISONOUS
+Green,Hard,NO,Wrinkled,Yes
+Green,Hard,YES,Smooth,No
+Brown,Soft,NO,Wrinkled,No
+Orange,Hard,NO,Wrinkled,Yes
+Green,Soft,YES,Smooth,Yes
+Green,Hard,YES,Wrinkled,Yes
+Orange,Hard,NO,Wrinkled,Yes
