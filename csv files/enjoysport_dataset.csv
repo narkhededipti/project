@@ -1,0 +1,8 @@
+sky, AirTemp,Humidity,Wind,Water,Forecast
+sunny ,warm,high,same,warm,same 
+rainy,cold,wind,same,warm,change
+rainy,cold,weak,change,cool,same 
+cloudy,cold,strong,change,warm,same 
+sunny ,warm,high,change,cool,change
+rainy,cold,wind,same,cool,same 
+cloudy,cold,strong,change,warm,same 
